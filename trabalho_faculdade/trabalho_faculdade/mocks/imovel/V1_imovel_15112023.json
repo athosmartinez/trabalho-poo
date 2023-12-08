@@ -1,0 +1,14 @@
+[
+  {
+    "matricula": "123456",
+    "tipo": "Comercial",
+  },
+  {
+    "matricula": "135246",
+    "tipo": "Residencial",
+  },
+  {
+    "matricula": "246135",
+    "tipo": "ResidencialSocial",
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "leitura": 281,
+    "dataLeitura": "2023-09-15",
+    "tipoConta": "Luz"
+  },
+  {
+    "leitura": 533,
+    "dataLeitura": "2023-10-15",
+    "tipoConta": "Luz"
+  },
+  {
+    "leitura": 802,
+    "dataLeitura": "2023-11-15",
+    "tipoConta": "Luz"
+  },
+  {
+    "leitura": 13,
+    "dataLeitura": "2023-09-08",
+    "tipoConta": "Agua"
+  },
+  {
+    "leitura": 28,
+    "dataLeitura": "2023-10-08",
+    "tipoConta": "Agua"
+  },
+  {
+    "leitura": 42,
+    "dataLeitura": "2023-11-08",
+    "tipoConta": "Agua"
+  }
+]
