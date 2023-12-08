@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/athosmartinez/RiderProjects/trabalho_faculdade/trabalho_faculdade/trabalho_faculdade.csproj": {}
+    "/Users/athosmartinez/Documents/GitHub/trabalho-poo/trabalho_faculdade/trabalho_faculdade/trabalho_faculdade.csproj": {}
   },
   "projects": {
-    "/Users/athosmartinez/RiderProjects/trabalho_faculdade/trabalho_faculdade/trabalho_faculdade.csproj": {
+    "/Users/athosmartinez/Documents/GitHub/trabalho-poo/trabalho_faculdade/trabalho_faculdade/trabalho_faculdade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/athosmartinez/RiderProjects/trabalho_faculdade/trabalho_faculdade/trabalho_faculdade.csproj",
+        "projectUniqueName": "/Users/athosmartinez/Documents/GitHub/trabalho-poo/trabalho_faculdade/trabalho_faculdade/trabalho_faculdade.csproj",
         "projectName": "trabalho_faculdade",
-        "projectPath": "/Users/athosmartinez/RiderProjects/trabalho_faculdade/trabalho_faculdade/trabalho_faculdade.csproj",
+        "projectPath": "/Users/athosmartinez/Documents/GitHub/trabalho-poo/trabalho_faculdade/trabalho_faculdade/trabalho_faculdade.csproj",
         "packagesPath": "/Users/athosmartinez/.nuget/packages/",
-        "outputPath": "/Users/athosmartinez/RiderProjects/trabalho_faculdade/trabalho_faculdade/obj/",
+        "outputPath": "/Users/athosmartinez/Documents/GitHub/trabalho-poo/trabalho_faculdade/trabalho_faculdade/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/athosmartinez/.nuget/NuGet/NuGet.Config"

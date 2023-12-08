@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f2pWu374oh8kfhTf0o95SHapsaKpuDAIcpOYYAXV7FxmBW90BUKQ1sy5ExUvQuFBIvqFbDkFEVgdT71jTvUaRw==",
+  "dgSpecHash": "Xe0buQmQWEVl3Tsq9AS/Z7Tq/8KaezJkXJQJ+bk3HVKbDPfEhWnvSKNDGEP/kdIizuRyAO5T8uVxD/yTzGZvaA==",
   "success": true,
-  "projectFilePath": "/Users/athosmartinez/RiderProjects/trabalho_faculdade/trabalho_faculdade/trabalho_faculdade.csproj",
+  "projectFilePath": "/Users/athosmartinez/Documents/GitHub/trabalho-poo/trabalho_faculdade/trabalho_faculdade/trabalho_faculdade.csproj",
   "expectedPackageFiles": [
     "/Users/athosmartinez/.nuget/packages/azure.core/1.36.0/azure.core.1.36.0.nupkg.sha512",
     "/Users/athosmartinez/.nuget/packages/azure.identity/1.10.4/azure.identity.1.10.4.nupkg.sha512",
